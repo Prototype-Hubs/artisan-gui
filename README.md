@@ -16,8 +16,8 @@
 Simple but yet powerful library for running some [artisan](https://laravel.com/docs/8.x/artisan) commands.
 
 ## Requirements 
-- **Laravel** 8.*
-- **php** ^7.3
+- **Laravel** 10.*
+- **php** ^8.0
 
 ## Installation
 Just install package:
