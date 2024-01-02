@@ -1,9 +1,9 @@
 {
-    "name": "infureal/artisan-gui",
+    "name": "prototypehubs/artisan-gui",
     "type": "library",
     "description": "Beautiful package for [laravel:artisan] gui for cool kids.",
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0",
         "laravel/framework": "^8.0|^9.0|^10.0"
